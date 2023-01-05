@@ -1,0 +1,14 @@
+[2022-10-30 15:10:44.018] [exthost] [info] Extension host with pid 7568 started
+[2022-10-30 15:10:44.018] [exthost] [info] Skipping acquiring lock for /var/www/monitoring_tandon/User/workspaceStorage/a18a33cfa19d465e89ccdc1b40063453.
+[2022-10-30 15:10:44.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-10-30 15:10:44.198] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-30 15:10:44.198] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-10-30 15:10:44.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-30 15:10:44.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-10-30 15:10:44.571] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-30 15:10:44.800] [exthost] [info] Eager extensions activated
+[2022-10-30 15:10:44.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-30 15:10:44.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-30 15:10:44.849] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-10-30 15:10:58.148] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-30 15:10:58.157] [exthost] [info] Extension host with pid 7568 exiting with code 0
